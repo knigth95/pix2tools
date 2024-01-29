@@ -1,0 +1,28 @@
+# pix2.py
+from pix2text import Pix2Text
+import pyperclip as po
+import os
+def recognize formula(image.path, text.dir)
+print("开始识别："+ image path)
+#检查图像文件是否存在
+if not os.path.exists(image-path):
+print("图像文件不存在：
++ image path)
+return
+try:
+#使用Pix2Text识别图片中的公式
+p2t = Pix2Text(analyzer config-dict(model.name=
+ $\operatorname*{minf}\Delta^{\cdot}$ 
+outs = p2t.recognize(image-path)
+only.text = '\n'.join([out[
+ ${\mathfrak{t e x t}}^{\prime}$ 
+for out in outs])
+#从image.path提取文件名（不包括扩展名
+file name without extension = os.path.splitext(os.path.basename(i
+text.path = os.path.join(text.dir, file name without.extension
+#将结果保存到文本文件并复制到剪贴板
+with open(text.path,
+ ${\mathbf{}}_{\mathbf{W}}^{\prime}$ 
+as file:
+file.write(only.text)
+pc.copy(only text)
