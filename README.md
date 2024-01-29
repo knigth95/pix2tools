@@ -2,7 +2,7 @@
 - 先在程序原目录创建两个文件夹image、text
 - 为python环境安装相关库（我的环境是conda python3.11）
     - pip install pix2text -i https://pypi.doubanio.com/simple
-    - pip install pyperclip - https://pypi.doubanio.com/simple
+    - pip install pyperclip -i https://pypi.doubanio.com/simple
 - 启动：python3 main.py
 #### 注意
 - 本人用的截图工具是flameshot，如果不是截图可能会有问题，但是只要image文件下存有图片就可识别
