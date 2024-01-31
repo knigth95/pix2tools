@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from tkinter import Tk, Button, font
 import flameshot
 import pix2
@@ -18,11 +19,11 @@ class FormulaRecognizerApp:
         btn_font = font.Font(size=12, weight='bold')
 
         # 截图按钮
-        self.screenshot_btn = Button(master, text="火山截图", command=self.capture_screenshot, font=btn_font, height=3, width=30)
+        self.screenshot_btn = Button(master, text="flameshot", command=self.capture_screenshot, font=btn_font, height=3, width=30)
         self.screenshot_btn.pack(pady=10)
         
         # 识别按钮
-        self.recognize_btn = Button(master, text="latex识别", command=self.recognize_formula, font=btn_font, height=3, width=30)
+        self.recognize_btn = Button(master, text="latex shibie", command=self.recognize_formula, font=btn_font, height=3, width=30)
         self.recognize_btn.pack(pady=10)
     
     def capture_screenshot(self):

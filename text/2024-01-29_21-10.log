@@ -1,0 +1,107 @@
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Arch Linux) (preloaded format=xelatex 2024.1.28)  29 JAN 2024 21:11
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**2024-01-29_21-10.tex
+(./2024-01-29_21-10.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22>
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 法
+     向辐照度表示地球上垂直于太阳光线的平面单位面积上、单位时间内接收到的太阳辐射能量，计
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 法 ("6CD5) in font nullfont!
+Missing character: There is no 向 ("5411) in font nullfont!
+Missing character: There is no 辐 ("8F90) in font nullfont!
+Missing character: There is no 照 ("7167) in font nullfont!
+Missing character: There is no 度 ("5EA6) in font nullfont!
+Missing character: There is no 表 ("8868) in font nullfont!
+Missing character: There is no 示 ("793A) in font nullfont!
+Missing character: There is no 地 ("5730) in font nullfont!
+Missing character: There is no 球 ("7403) in font nullfont!
+Missing character: There is no 上 ("4E0A) in font nullfont!
+Missing character: There is no 垂 ("5782) in font nullfont!
+Missing character: There is no 直 ("76F4) in font nullfont!
+Missing character: There is no 于 ("4E8E) in font nullfont!
+Missing character: There is no 太 ("592A) in font nullfont!
+Missing character: There is no 阳 ("9633) in font nullfont!
+Missing character: There is no 光 ("5149) in font nullfont!
+Missing character: There is no 线 ("7EBF) in font nullfont!
+Missing character: There is no 的 ("7684) in font nullfont!
+Missing character: There is no 平 ("5E73) in font nullfont!
+Missing character: There is no 面 ("9762) in font nullfont!
+Missing character: There is no 单 ("5355) in font nullfont!
+Missing character: There is no 位 ("4F4D) in font nullfont!
+Missing character: There is no 面 ("9762) in font nullfont!
+Missing character: There is no 积 ("79EF) in font nullfont!
+Missing character: There is no 上 ("4E0A) in font nullfont!
+Missing character: There is no 、 ("3001) in font nullfont!
+Missing character: There is no 单 ("5355) in font nullfont!
+Missing character: There is no 位 ("4F4D) in font nullfont!
+Missing character: There is no 时 ("65F6) in font nullfont!
+Missing character: There is no 间 ("95F4) in font nullfont!
+Missing character: There is no 内 ("5185) in font nullfont!
+Missing character: There is no 接 ("63A5) in font nullfont!
+Missing character: There is no 收 ("6536) in font nullfont!
+Missing character: There is no 到 ("5230) in font nullfont!
+Missing character: There is no 的 ("7684) in font nullfont!
+Missing character: There is no 太 ("592A) in font nullfont!
+Missing character: There is no 阳 ("9633) in font nullfont!
+Missing character: There is no 辐 ("8F90) in font nullfont!
+Missing character: There is no 射 ("5C04) in font nullfont!
+Missing character: There is no 能 ("80FD) in font nullfont!
+Missing character: There is no 量 ("91CF) in font nullfont!
+Missing character: There is no ， ("FF0C) in font nullfont!
+Missing character: There is no 计 ("8BA1) in font nullfont!
+Missing character: There is no 算 ("7B97) in font nullfont!
+Missing character: There is no 公 ("516C) in font nullfont!
+Missing character: There is no 式 ("5F0F) in font nullfont!
+Missing character: There is no ( ("28) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no 4 ("34) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+Missing character: There is no 如 ("5982) in font nullfont!
+Missing character: There is no 下 ("4E0B) in font nullfont!
+Missing character: There is no ： ("FF1A) in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--3
+[]
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
+
+Overfull \hbox (140.16086pt too wide) detected at line 5
+[]
+ []
+
+Missing character: There is no ( ("28) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
+Missing character: There is no 4 ("34) in font nullfont!
+Missing character: There is no ) ("29) in font nullfont!
+)
+! Emergency stop.
+<*> 2024-01-29_21-10.tex
+                        
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 17 strings out of 476683
+ 361 string characters out of 5809790
+ 1842018 words of memory out of 5000000
+ 20365 multiletter control sequences out of 15000+600000
+ 512287 words of font info for 32 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 17i,11n,12p,222b,101s stack positions out of 10000i,1000n,20000p,200000b,200000s
+No pages of output.
